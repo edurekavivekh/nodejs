@@ -1,0 +1,14 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "sample test",
+  "main": "module1",
+  "scripts": {
+    "test": "node module1"
+  },
+  "author": "vivek.hebalkar@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
