@@ -2,6 +2,9 @@
   "name": "myapp",
   "version": "1.0.0",
   "description": "sample test",
+  "engines": {
+    "node": "5.8.0"
+  },
   "main": "index.js",
   "scripts": {
     "test": "node index.js"
