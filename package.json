@@ -2,9 +2,9 @@
   "name": "myapp",
   "version": "1.0.0",
   "description": "sample test",
-  "main": "module1",
+  "main": "index.js",
   "scripts": {
-    "test": "node module1"
+    "test": "node index.js"
   },
   "author": "vivek.hebalkar@gmail.com",
   "license": "ISC",
