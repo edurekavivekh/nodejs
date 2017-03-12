@@ -17,7 +17,7 @@ app.get('/queryProducts',function(req,res) {
 });
 
 
-var port = 80;
+var port = process.env.PORT;
 app.listen(port, function() {
 	console.log("Server is listening on port 80");
 });
